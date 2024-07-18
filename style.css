@@ -1,0 +1,34 @@
+#Title,.Recipe-Heading{
+    text-align: center;
+    font-weight: bold;
+}
+
+.recipes{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.recipe-image{
+    height: auto;
+    width: 300px;
+    padding-bottom: 15px;
+    display: block;
+    
+    
+}
+
+.recipe-discription{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.ingredients-heading{
+    font-size: 24px;
+    
+}
+
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
